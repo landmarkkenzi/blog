@@ -301,23 +301,70 @@
     <img class="nps-map-image" src="https://cdn.shopify.com/s/files/1/1529/3721/files/NPS_Summer_Closing_Blog_Map.svg?v=1787144202" alt="Our National Parks">
 
     <!-- MARKERS -->
-    <button type="button" class="nps-map-marker nps-marker-1" data-name="Yosemite National Park" data-image="https://cdn.shopify.com/s/files/1/1529/3721/files/NPS_Summer_Closing_Blog_Map-11.png?v=1787145741"></button>
+    <button type="button" class="nps-map-marker nps-marker-1" data-name="Yosemite National Park" data-image="https://cdn.shopify.com/s/files/1/1529/3721/files/NPS_Summer_Closing_Blog_Map_Yosemite.png?v=1787603427"></button>
 
-    <button type="button" class="nps-map-marker nps-marker-2" data-name="Joshua Tree National Park" data-image="https://cdn.shopify.com/s/files/1/1529/3721/files/NPS_Summer_Closing_Blog_Map-10.png?v=1787145745"></button>
+    <button type="button" class="nps-map-marker nps-marker-2" data-name="Joshua Tree National Park" data-image="https://cdn.shopify.com/s/files/1/1529/3721/files/NPS_Summer_Closing_Blog_Map_Joshua_Tree.png?v=1787603400"></button>
 
-    <button type="button" class="nps-map-marker nps-marker-3" data-name="Saguaro National Park" data-image="https://cdn.shopify.com/s/files/1/1529/3721/files/NPS_Summer_Closing_Blog_Map-05.png?v=1787145700"></button>
+    <button type="button" class="nps-map-marker nps-marker-3" data-name="Saguaro National Park" data-image="https://cdn.shopify.com/s/files/1/1529/3721/files/NPS_Summer_Closing_Blog_Map_Saguaro.png?v=1787603409"></button>
 
-    <button type="button" class="nps-map-marker nps-marker-4" data-name="Rocky Mountain National Park" data-image="https://cdn.shopify.com/s/files/1/1529/3721/files/NPS_Summer_Closing_Blog_Map-07.png?v=1787145727"></button>
+    <button type="button" class="nps-map-marker nps-marker-4" data-name="Rocky Mountain National Park" data-image="https://cdn.shopify.com/s/files/1/1529/3721/files/NPS_Summer_Closing_Blog_Map_Rocky.png?v=1787603432"></button>
 
-    <button type="button" class="nps-map-marker nps-marker-5" data-name="Bryce Canyon National Park" data-image="https://cdn.shopify.com/s/files/1/1529/3721/files/NPS_Summer_Closing_Blog_Map-09.png?v=1787145737"></button>
+    <button type="button" class="nps-map-marker nps-marker-5" data-name="Bryce Canyon National Park" data-image="https://cdn.shopify.com/s/files/1/1529/3721/files/NPS_Summer_Closing_Blog_Map_Bryce_Canyon.png?v=1787603301"></button>
 
     <button type="button" class="nps-map-marker nps-marker-7" data-name="Great Smoky Mountains National Park" data-image="https://cdn.shopify.com/s/files/1/1529/3721/files/NPS_Summer_Closing_Blog_Map-08.png?v=1787145714"></button>
 
-    <button type="button" class="nps-map-marker nps-marker-8" data-name="Everglades National Park" data-image="https://cdn.shopify.com/s/files/1/1529/3721/files/NPS_Summer_Closing_Blog_Map-04.png?v=1787145744"></button>
+    <button type="button" class="nps-map-marker nps-marker-8" data-name="Everglades National Park" data-image="https://cdn.shopify.com/s/files/1/1529/3721/files/NPS_Summer_Closing_Blog_Map_Everglades.png?v=1787603424"></button>
 
-    <button type="button" class="nps-map-marker nps-marker-9" data-name="Denali National Park" data-image="https://cdn.shopify.com/s/files/1/1529/3721/files/NPS_Summer_Closing_Blog_Map-03.png?v=1787145707"></button>
+    <button type="button" class="nps-map-marker nps-marker-9" data-name="Denali National Park" data-image="https://cdn.shopify.com/s/files/1/1529/3721/files/NPS_Summer_Closing_Blog_Map_Denali.png?v=1787603385"></button>
    
-    <button type="button" class="nps-map-marker nps-marker-10" data-name="Haleakala National Park" data-image="https://cdn.shopify.com/s/files/1/1529/3721/files/NPS_Summer_Closing_Blog_Map-11.png?v=1787145741"></button>
+    <button type="button" class="nps-map-marker nps-marker-10" data-name="Haleakala National Park" data-image="https://cdn.shopify.com/s/files/1/1529/3721/files/NPS_Summer_Closing_Blog_Map_Haleakala.png?v=1787603377"></button>
+
+    <button type="button" class="nps-map-marker nps-marker-11" data-name="Icy Strait" data-image="https://cdn.shopify.com/s/files/1/1529/3721/files/NPS_Summer_Closing_Blog_Map_Icy_Strait.png?v=1787603428"></button>
+
+    <button type="button" class="nps-map-marker nps-marker-12" data-name="Isle Royale" data-image="https://cdn.shopify.com/s/files/1/1529/3721/files/NPS_Summer_Closing_Blog_Map_Isle_Royale.png?v=1787603421"></button>
+  
+    <button type="button" class="nps-map-marker nps-marker-13" data-name="Crater Lake" data-image="https://cdn.shopify.com/s/files/1/1529/3721/files/NPS_Summer_Closing_Blog_Map_Crater_Lake.png?v=1787603419"></button>
+
+    <button type="button" class="nps-map-marker nps-marker-14" data-name="Canyonlands" data-image="https://cdn.shopify.com/s/files/1/1529/3721/files/NPS_Summer_Closing_Blog_Map_Canyonlands.png?v=1787603415"></button>
+
+    <button type="button" class="nps-map-marker nps-marker-15" data-name="Glacier" data-image="https://cdn.shopify.com/s/files/1/1529/3721/files/NPS_Summer_Closing_Blog_Map_Glacier.png?v=1787603414"></button>
+
+    <button type="button" class="nps-map-marker nps-marker-16" data-name="Rainier" data-image="https://cdn.shopify.com/s/files/1/1529/3721/files/NPS_Summer_Closing_Blog_Map_Rainier.png?v=1787603411"></button>
+
+    <button type="button" class="nps-map-marker nps-marker-17" data-name="Yellowstone" data-image="https://cdn.shopify.com/s/files/1/1529/3721/files/NPS_Summer_Closing_Blog_Map_Yellowstone.png?v=1787603405"></button>
+
+    <button type="button" class="nps-map-marker nps-marker-18" data-name="Mammoth Cave" data-image="https://cdn.shopify.com/s/files/1/1529/3721/files/NPS_Summer_Closing_Blog_Map_Mammoth_Cave.png?v=1787603403"></button>
+
+    <button type="button" class="nps-map-marker nps-marker-19" data-name="Kings Canyon" data-image="https://cdn.shopify.com/s/files/1/1529/3721/files/NPS_Summer_Closing_Blog_Map_Kings_Canyon.png?v=1787603397"></button>
+
+    <button type="button" class="nps-map-marker nps-marker-20" data-name="Capitol Reef" data-image="https://cdn.shopify.com/s/files/1/1529/3721/files/NPS_Summer_Closing_Blog_Map_Capitol_Reef.png?v=1787603394"></button>
+
+    <button type="button" class="nps-map-marker nps-marker-21" data-name="Acadia" data-image="https://cdn.shopify.com/s/files/1/1529/3721/files/NPS_Summer_Closing_Blog_Map_Acadia.png?v=1787603390"></button>
+
+    <button type="button" class="nps-map-marker nps-marker-22" data-name="Petrified Forest" data-image="https://cdn.shopify.com/s/files/1/1529/3721/files/NPS_Summer_Closing_Blog_Map_Petrified.png?v=1787603378"></button>
+
+    <button type="button" class="nps-map-marker nps-marker-23" data-name="Anchorage" data-image="https://cdn.shopify.com/s/files/1/1529/3721/files/NPS_Summer_Closing_Blog_Map_Anchorage.png?v=1787603365"></button>
+
+    <button type="button" class="nps-map-marker nps-marker-24" data-name="Pinnacles" data-image="https://cdn.shopify.com/s/files/1/1529/3721/files/NPS_Summer_Closing_Blog_Map_Pinnacles.png?v=1787603360"></button>
+
+    <button type="button" class="nps-map-marker nps-marker-25" data-name="Wind Cave" data-image="https://cdn.shopify.com/s/files/1/1529/3721/files/NPS_Summer_Closing_Blog_Map_Wind_Cave.png?v=1787603355"></button>
+
+    <button type="button" class="nps-map-marker nps-marker-26" data-name="New River Gorge" data-image="https://cdn.shopify.com/s/files/1/1529/3721/files/NPS_Summer_Closing_Blog_Map_New_River_Gorge.png?v=1787603349"></button>
+
+    <button type="button" class="nps-map-marker nps-marker-27" data-name="Mesa Verde" data-image="https://cdn.shopify.com/s/files/1/1529/3721/files/NPS_Summer_Closing_Blog_Map_Mesa_Verde.png?v=1787603342"></button>
+
+    <button type="button" class="nps-map-marker nps-marker-28" data-name="Lassen Volcanic" data-image="https://cdn.shopify.com/s/files/1/1529/3721/files/NPS_Summer_Closing_Blog_Map_Lassen.png?v=1787603334"></button>
+
+    <button type="button" class="nps-map-marker nps-marker-29" data-name="Black Canyon" data-image="https://cdn.shopify.com/s/files/1/1529/3721/files/NPS_Summer_Closing_Blog_Map_Black_Canyon.png?v=1787603327"></button>
+
+    <button type="button" class="nps-map-marker nps-marker-30" data-name="Great Smoky" data-image="https://cdn.shopify.com/s/files/1/1529/3721/files/NPS_Summer_Closing_Blog_Map_Great_Smoky.png?v=1787603320"></button>
+
+    <button type="button" class="nps-map-marker nps-marker-31" data-name="Cuyahoga" data-image="https://cdn.shopify.com/s/files/1/1529/3721/files/NPS_Summer_Closing_Blog_Map_Cuyahoga.png?v=1787603309"></button>
+
+    <button type="button" class="nps-map-marker nps-marker-32" data-name="Big Bend" data-image="hhttps://cdn.shopify.com/s/files/1/1529/3721/files/NPS_Summer_Closing_Blog_Map_Big_Bend.png?v=1787603289"></button>
+
+
+
 
   </div>
 
