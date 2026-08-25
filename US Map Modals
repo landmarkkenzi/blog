@@ -84,67 +84,192 @@
    MARKER POSITIONS
    ========================================= */
 
-/* Yosemite */
+
+/* Yosemite National Park */
 .nps-marker-1 {
   left: 10%;
   top: 47%;
 }
 
-
-/* Joshua Tree */
+/* Joshua Tree National Park */
 .nps-marker-2 {
   left: 13%;
   top: 54%;
 }
 
-
-/* Saguaro */
+/* Saguaro National Park */
 .nps-marker-3 {
   left: 25%;
   top: 61%;
 }
 
-/* Rocky Mountains */
+/* Rocky Mountain National Park */
 .nps-marker-4 {
   left: 28%;
   top: 42%;
 }
 
-
-/* Bryce Canyon */
+/* Bryce Canyon National Park */
 .nps-marker-5 {
   left: 20%;
   top: 44%;
 }
 
-
-/* Great Smoky Mountains */
+/* Great Smoky Mountains National Park */
 .nps-marker-7 {
   left: 63%;
   top: 53%;
 }
 
-
-/* Everglades */
+/* Everglades National Park */
 .nps-marker-8 {
   left: 80%;
   top: 72%;
 }
 
-
-/* Denali */
+/* Denali National Park */
 .nps-marker-9 {
   left: 20%;
   top: 79%;
 }
 
-
-/* Haleakala */
+/* Haleakala National Park */
 .nps-marker-10 {
-  left: 50%;
-  top: 83%;
+  left: 47%;
+  top: 84%;
 }
 
+/* Icy Strait */
+.nps-marker-11 {
+  left: 30%;
+  top: 93%;
+}
+
+/* Isle Royale */
+.nps-marker-12 {
+  left: 57%;
+  top: 27%;
+}
+
+/* Crater Lake */
+.nps-marker-13 {
+  left: 9%;
+  top: 24%;
+}
+
+/* Canyonlands */
+.nps-marker-14 {
+  left: 23%;
+  top: 44%;
+}
+
+/* Glacier */
+.nps-marker-15 {
+  left: 26%;
+  top: 28%;
+}
+
+/* Rainier */
+.nps-marker-16 {
+  left: 12%;
+  top: 12%;
+}
+
+/* Yellowstone */
+.nps-marker-17 {
+  left: 24%;
+  top: 35%;
+}
+
+/* Mammoth Cave */
+.nps-marker-18 {
+  left: 52%;
+  top: 50%;
+}
+
+/* Kings Canyon */
+.nps-marker-19 {
+  left: 11%;
+  top: 50%;
+}
+
+/* Capitol Reef */
+.nps-marker-20 {
+  left: 21%;
+  top: 46%;
+}
+
+/* Acadia */
+.nps-marker-21 {
+  left: 87%;
+  top: 22%;
+}
+
+/* Petrified Forest */
+.nps-marker-22 {
+  left: 29%;
+  top: 56%;
+}
+
+/* Anchorage */
+.nps-marker-23 {
+  left: 24%;
+  top: 87%;
+}
+
+/* Pinnacles */
+.nps-marker-24 {
+  left: 7%;
+  top: 49%;
+}
+
+/* Wind Cave */
+.nps-marker-25 {
+  left: 33%;
+  top: 38%;
+}
+
+/* New River Gorge */
+.nps-marker-26 {
+  left: 68%;
+  top: 47%;
+}
+
+/* Mesa Verde */
+.nps-marker-27 {
+  left: 25%;
+  top: 47%;
+}
+
+/* Lassen Volcanic */
+.nps-marker-28 {
+  left: 9%;
+  top: 38%;
+}
+
+/* Black Canyon */
+.nps-marker-29 {
+  left: 26%;
+  top: 44%;
+}
+
+/* Great Smoky (dup of marker-7) */
+.nps-marker-30 {
+  left: 63%;
+  top: 53%;
+}
+
+/* Cuyahoga */
+.nps-marker-31 {
+  left: 64%;
+  top: 38%;
+}
+
+/* Big Bend */
+.nps-marker-32 {
+  left: 38%;
+  top: 66%;
+}
 
 /* =========================================
    MODAL
