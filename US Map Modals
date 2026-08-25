@@ -17,6 +17,7 @@
 .nps-map-image {
   display: block;
   width: 100%;
+  aspect-ratio: 2054 / 1442;
   height: auto;
 }
 
@@ -93,20 +94,20 @@
 
 /* Joshua Tree National Park */
 .nps-marker-2 {
-  left: 13%;
-  top: 54%;
+  left: 15%;
+  top: 56%;
 }
 
 /* Saguaro National Park */
 .nps-marker-3 {
-  left: 25%;
+  left: 23%;
   top: 61%;
 }
 
 /* Rocky Mountain National Park */
 .nps-marker-4 {
   left: 28%;
-  top: 42%;
+  top: 38%;
 }
 
 /* Bryce Canyon National Park */
@@ -117,140 +118,141 @@
 
 /* Great Smoky Mountains National Park */
 .nps-marker-7 {
-  left: 63%;
-  top: 53%;
+  left: 68%;
+  top: 50%;
 }
 
 /* Everglades National Park */
 .nps-marker-8 {
   left: 80%;
-  top: 72%;
+  top: 74%;
 }
 
 /* Denali National Park */
 .nps-marker-9 {
-  left: 20%;
-  top: 79%;
+  left: 18%;
+  top: 76%;
 }
 
 /* Haleakala National Park */
 .nps-marker-10 {
   left: 47%;
-  top: 84%;
+  top: 95%;
 }
 
-/* Icy Strait */
+/* Icy Strait 
 .nps-marker-11 {
   left: 30%;
   top: 93%;
 }
+*/
 
 /* Isle Royale */
 .nps-marker-12 {
-  left: 57%;
-  top: 27%;
+  left: 60%;
+  top: 20%;
 }
 
 /* Crater Lake */
 .nps-marker-13 {
-  left: 9%;
+  left: 6%;
   top: 24%;
 }
 
 /* Canyonlands */
 .nps-marker-14 {
-  left: 23%;
+  left: 25%;
   top: 44%;
 }
 
 /* Glacier */
 .nps-marker-15 {
   left: 26%;
-  top: 28%;
+  top: 15%;
 }
 
 /* Rainier */
 .nps-marker-16 {
-  left: 12%;
+  left: 8%;
   top: 12%;
 }
 
 /* Yellowstone */
 .nps-marker-17 {
-  left: 24%;
+  left: 18%;
   top: 35%;
 }
 
 /* Mammoth Cave */
 .nps-marker-18 {
-  left: 52%;
+  left: 60%;
   top: 50%;
 }
 
 /* Kings Canyon */
 .nps-marker-19 {
   left: 11%;
-  top: 50%;
+  top: 45%;
 }
 
 /* Capitol Reef */
 .nps-marker-20 {
-  left: 21%;
-  top: 46%;
+  left: 18%;
+  top: 42%;
 }
 
 /* Acadia */
 .nps-marker-21 {
   left: 87%;
-  top: 22%;
+  top: 16%;
 }
 
 /* Petrified Forest */
 .nps-marker-22 {
-  left: 29%;
-  top: 56%;
+  left: 24%;
+  top: 55%;
 }
 
 /* Anchorage */
 .nps-marker-23 {
-  left: 24%;
-  top: 87%;
+  left: 18%;
+  top: 86%;
 }
 
 /* Pinnacles */
 .nps-marker-24 {
-  left: 7%;
-  top: 49%;
+  left: 5%;
+  top: 45%;
 }
 
 /* Wind Cave */
 .nps-marker-25 {
   left: 33%;
-  top: 38%;
+  top: 25%;
 }
 
 /* New River Gorge */
 .nps-marker-26 {
   left: 68%;
-  top: 47%;
+  top: 45%;
 }
 
 /* Mesa Verde */
 .nps-marker-27 {
-  left: 25%;
-  top: 47%;
+  left: 26%;
+  top: 48%;
 }
 
 /* Lassen Volcanic */
 .nps-marker-28 {
-  left: 9%;
-  top: 38%;
+  left: 6%;
+  top: 25%;
 }
 
 /* Black Canyon */
 .nps-marker-29 {
-  left: 26%;
-  top: 44%;
+  left: 24%;
+  top: 40%;
 }
 
 /* Great Smoky (dup of marker-7) */
@@ -258,17 +260,18 @@
   left: 63%;
   top: 53%;
 }
+*/
 
 /* Cuyahoga */
 .nps-marker-31 {
-  left: 64%;
-  top: 38%;
+  left: 69%;
+  top: 32%;
 }
 
 /* Big Bend */
 .nps-marker-32 {
-  left: 38%;
-  top: 66%;
+  left: 35%;
+  top: 68%;
 }
 
 /* =========================================
@@ -637,5 +640,5 @@ Happy 110th, National Park Service. And here's to wherever we all go next.
   </p>
 <p></p>
 
- <img src="https://cdn.shopify.com/s/files/1/1529/3721/files/Screenshot_2026-08-24_at_11.51.14_AM.png?v=1787586695" alt=Collage of Postcards Received>
+ <img src="https://cdn.shopify.com/s/files/1/1529/3721/files/2026_NPTC_Postcard_Collage.jpg?v=1787658256" alt=Collage of Postcards Received>
     
